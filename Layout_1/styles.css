@@ -13,7 +13,7 @@
 
 .box-wrapper{
     display: flex;
-    
+    align-items: center;
 }
 
 .box-small{
